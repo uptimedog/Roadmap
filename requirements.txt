@@ -6,4 +6,4 @@ Faker==8.12.1
 django-rq==2.4.1
 jsonschema==3.2.0
 requests==2.26.0
-sendgrid==6.8.0
+sendgrid==6.8.1
